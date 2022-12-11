@@ -1,0 +1,17 @@
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.exe
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.deps.json
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.runtimeconfig.json
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.dll
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.pdb
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.AssemblyReference.cache
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.AssemblyInfo.cs
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.CoreCompileInputs.cache
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.CopyComplete
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.dll
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\refint\EmitLogDirect.dll
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.pdb
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.genruntimeconfig.cache
+C:\Projects\Zoo\Rabbit\Routing\EmitLogDirect\obj\Debug\net6.0\ref\EmitLogDirect.dll

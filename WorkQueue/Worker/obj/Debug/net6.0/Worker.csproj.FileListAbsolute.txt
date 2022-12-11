@@ -1,0 +1,17 @@
+C:\Projects\Zoo\Rabbit\Worker\bin\Debug\net6.0\Worker.exe
+C:\Projects\Zoo\Rabbit\Worker\bin\Debug\net6.0\Worker.deps.json
+C:\Projects\Zoo\Rabbit\Worker\bin\Debug\net6.0\Worker.runtimeconfig.json
+C:\Projects\Zoo\Rabbit\Worker\bin\Debug\net6.0\Worker.dll
+C:\Projects\Zoo\Rabbit\Worker\bin\Debug\net6.0\Worker.pdb
+C:\Projects\Zoo\Rabbit\Worker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\Worker.csproj.AssemblyReference.cache
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\Worker.AssemblyInfoInputs.cache
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\Worker.AssemblyInfo.cs
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\Worker.csproj.CoreCompileInputs.cache
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\Worker.csproj.CopyComplete
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\Worker.dll
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\refint\Worker.dll
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\Worker.pdb
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\Worker.genruntimeconfig.cache
+C:\Projects\Zoo\Rabbit\Worker\obj\Debug\net6.0\ref\Worker.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7uSzShMFQ6fy5WE869LlW8usTYDWyKMwm4se+ptVJMeFV//9uBuEHawJhqmQc3zlKcpBbuWfaXvLyCD5LqcZWw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Zoo\\Rabbit\\RPC\\RPCClient\\RPCClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
